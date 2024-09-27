@@ -15,6 +15,9 @@ Check out the live version of the project here:
 
 Live Gemini Clone : https://gemini-clone-react-mauve.vercel.app
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/34c5dc96-db30-4892-ba04-ab090613c4d5">
+
+
 # Technologies Used
 1. Vite: Fast build tool optimized for modern web development.
 2. React: A powerful JavaScript library for building user interfaces.
