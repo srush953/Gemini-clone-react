@@ -1,11 +1,10 @@
 
-Here’s an updated README for your Gemini Clone project, without cryptocurrency references:
 
-Gemini Clone
+## Gemini Clone
 A Gemini clone web application built using Vite and React, focusing on delivering a modern, responsive frontend experience.
 
-Features
-💻 Responsive UI: Clean and intuitive interface that adapts to different screen sizes.
+## Features
+💻 Responsive UI:Clean and intuitive interface that adapts to different screen sizes.
 🎨 Custom Styling: Styled components for a modern and visually appealing look.
 🚀 Fast Performance: Optimized loading and rendering speed using Vite and React.
 🔍 Search and Filter: Users can search and filter through available options with ease.
